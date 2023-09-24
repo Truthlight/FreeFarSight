@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/checkbox_checked.png</file>
+        <file>images/checkbox_checked_hover.png</file>
+        <file>images/checkbox_checked_pressed.png</file>
+        <file>images/checkbox_unchecked.png</file>
+        <file>images/checkbox_unchecked_hover.png</file>
+        <file>images/checkbox_unchecked_pressed.png</file>
+        <file>images/checkbox_checked_disabled.png</file>
+        <file>images/checkbox_unchecked_disabled.png</file>
+        <file>images/add_base.png</file>
+        <file>images/add_hover.png</file>
+        <file>images/add_pressed.png</file>
+        <file>images/delete_base.png</file>
+        <file>images/delete_hover.png</file>
+        <file>images/delete_pressed.png</file>
+        <file>images/play_base.png</file>
+        <file>images/play_hover.png</file>
+        <file>images/play_pressed.png</file>
+        <file>images/replace_base.png</file>
+        <file>images/replace_hover.png</file>
+        <file>images/replace_pressed.png</file>
+        <file>images/stop_base.png</file>
+        <file>images/stop_hover.png</file>
+        <file>images/stop_pressed.png</file>
+        <file>images/view_base.png</file>
+        <file>images/view_hover.png</file>
+        <file>images/view_pressed.png</file>
+        <file>images/logo.png</file>
+    </qresource>
+</RCC>
